@@ -10,11 +10,11 @@
   "license": "ISC",
   "dependencies": {
     "mkdirp": "^0.5.1",
-    "promise": "^7.0.4"
+    "promise": "^8.0.1"
   },
   "devDependencies": {
-    "babel-eslint": "^6.0.3",
-    "eslint": "^2.8.0",
-    "eslint-plugin-react": "^5.0.1"
+    "babel-eslint": "^8.2.5",
+    "eslint": "^5.0.1",
+    "eslint-plugin-react": "^7.10.0"
   }
 }
