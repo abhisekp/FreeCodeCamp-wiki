@@ -77,7 +77,7 @@ $ git push origin master
 
 ### 5. Ready Steady Go... :turtle: :rabbit2:
 
-Once you have completed these steps, you are ready to start contributing by checking our [![Help Wanted Issues](https://img.shields.io/badge/Wiki-Help_Wanted_Issues-159818.svg?style=flat-square&maxAge=2592000)](https://github.com/FreeCodeCamp/wiki/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22 "Help Wanted Issues") and creating *new shiny* :sparkles: [pull requests](https://github.com/FreeCodeCamp/wiki/pulls).
+Once you have completed these steps, you are ready to start contributing by checking our [![Help Wanted Issues](https://img.shields.io/badge/Wiki-Help_Wanted_Issues-159818.svg?style=flat-square&maxAge=2592000)](https://github.com/FreeCodeCamp/wiki/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22 "Help Wanted Issues") [![Greenkeeper badge](https://badges.greenkeeper.io/abhisekp/FreeCodeCamp-wiki.svg)](https://greenkeeper.io/) and creating *new shiny* :sparkles: [pull requests](https://github.com/FreeCodeCamp/wiki/pulls).
 
 ## Help Contributing Guides
 
